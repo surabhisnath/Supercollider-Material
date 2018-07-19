@@ -1,1 +1,3 @@
-# Supercollider-Material
+# Supercollider Material
+
+Reading material for supercollider
